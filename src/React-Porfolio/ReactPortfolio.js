@@ -148,7 +148,7 @@ export default function ReactPortfolio() {
 
     const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/resume-rimpa.pdf"; // Make sure the PDF is in the public folder
+    link.href = "/resumeRimpa.pdf"; // Make sure the PDF is in the public folder
     link.download = "Rimpa_CV.pdf"; // You can rename the downloaded file here
     document.body.appendChild(link);
     link.click();
