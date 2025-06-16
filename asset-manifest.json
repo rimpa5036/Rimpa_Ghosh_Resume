@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rimpa_Ghosh_Resume/static/css/main.9841047e.css",
-    "main.js": "/Rimpa_Ghosh_Resume/static/js/main.f56b6576.js",
+    "main.js": "/Rimpa_Ghosh_Resume/static/js/main.2ab748dd.js",
     "static/js/453.3343e70d.chunk.js": "/Rimpa_Ghosh_Resume/static/js/453.3343e70d.chunk.js",
     "static/media/profile.svg": "/Rimpa_Ghosh_Resume/static/media/profile.8d358c9b6578298c8c7f4f230b81045e.svg",
     "static/media/profile.png": "/Rimpa_Ghosh_Resume/static/media/profile.9a61a3d5cd70ba45d088.png",
@@ -21,11 +21,11 @@
     "static/media/cssimg.svg": "/Rimpa_Ghosh_Resume/static/media/cssimg.abe6a40f40add8d258399a1b31ed3d98.svg",
     "static/media/htmlimg.svg": "/Rimpa_Ghosh_Resume/static/media/htmlimg.f8949e6f206c4bf364f25c15e7ff10cb.svg",
     "main.9841047e.css.map": "/Rimpa_Ghosh_Resume/static/css/main.9841047e.css.map",
-    "main.f56b6576.js.map": "/Rimpa_Ghosh_Resume/static/js/main.f56b6576.js.map",
+    "main.2ab748dd.js.map": "/Rimpa_Ghosh_Resume/static/js/main.2ab748dd.js.map",
     "453.3343e70d.chunk.js.map": "/Rimpa_Ghosh_Resume/static/js/453.3343e70d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9841047e.css",
-    "static/js/main.f56b6576.js"
+    "static/js/main.2ab748dd.js"
   ]
 }
